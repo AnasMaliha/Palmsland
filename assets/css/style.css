@@ -204,6 +204,8 @@ picture {
 .articles .card-text2{
      font-size: 16px;
      color: rgba(195, 153, 58, 1);
+     border: none;
+     background: white;
 }
 .articles .card-text2 i{
      font-size: 10px;
